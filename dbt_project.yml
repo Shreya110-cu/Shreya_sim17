@@ -7,5 +7,5 @@ profile: 'my_project'
 model-paths: ["models"]
 
 models:
-  Suhani_Sim17:
-    +materialized: table
+  Suhani_Sim17:
+    +materialized: table
